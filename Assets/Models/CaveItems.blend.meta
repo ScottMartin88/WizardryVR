@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: ba5dca38f2454c0428d52fc257b812e6
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: connecting
+    100004: Lantern
+    100006: Pickaxe
+    100008: stagagtite
+    100010: Stalagmite
+    100012: Mushroom
+    100014: Mushroom_001
+    100016: woodBeam
+    100018: woodPlank
+    100020: Rock01
+    100022: Rock02
+    100024: Rock03
+    400000: //RootNode
+    400002: connecting
+    400004: Lantern
+    400006: Pickaxe
+    400008: stagagtite
+    400010: Stalagmite
+    400012: Mushroom
+    400014: Mushroom_001
+    400016: woodBeam
+    400018: woodPlank
+    400020: Rock01
+    400022: Rock02
+    400024: Rock03
+    2100000: unnamed
+    2100002: Wood
+    2100004: Metal
+    2100006: Glass
+    2100008: Wick
+    2100010: Candle
+    2300000: connecting
+    2300002: Lantern
+    2300004: Pickaxe
+    2300006: stagagtite
+    2300008: Stalagmite
+    2300010: Mushroom
+    2300012: Mushroom_001
+    2300014: woodBeam
+    2300016: woodPlank
+    2300018: Rock01
+    2300020: Rock02
+    2300022: Rock03
+    3300000: connecting
+    3300002: Lantern
+    3300004: Pickaxe
+    3300006: stagagtite
+    3300008: Stalagmite
+    3300010: Mushroom
+    3300012: Mushroom_001
+    3300014: woodBeam
+    3300016: woodPlank
+    3300018: Rock01
+    3300020: Rock02
+    3300022: Rock03
+    4300000: connecting
+    4300002: stagagtite
+    4300004: Stalagmite
+    4300006: Pickaxe
+    4300008: Lantern
+    4300010: Mushroom_001
+    4300012: Mushroom
+    4300014: woodPlank
+    4300016: woodBeam
+    4300018: Rock01
+    4300020: Rock03
+    4300022: Rock02
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.5
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.5
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

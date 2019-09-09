@@ -1,0 +1,165 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: RightHand
+  m_Mask: 00000000000000000000000000000000000000000000000000000000000000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Armature
+    m_Weight: 0
+  - m_Path: Armature/root
+    m_Weight: 0
+  - m_Path: Armature/root/base
+    m_Weight: 0
+  - m_Path: Armature/root/base/pelvis
+    m_Weight: 0
+  - m_Path: Armature/root/base/pelvis/upper_leg.L
+    m_Weight: 0
+  - m_Path: Armature/root/base/pelvis/upper_leg.L/lower_leg.L
+    m_Weight: 0
+  - m_Path: Armature/root/base/pelvis/upper_leg.L/lower_leg.L/foot.L
+    m_Weight: 0
+  - m_Path: Armature/root/base/pelvis/upper_leg.L/lower_leg.L/foot.L/toes.L
+    m_Weight: 0
+  - m_Path: Armature/root/base/pelvis/upper_leg.L/lower_leg.L/foot.L/toes.L/toes.L_end
+    m_Weight: 0
+  - m_Path: Armature/root/base/pelvis/upper_leg.R
+    m_Weight: 0
+  - m_Path: Armature/root/base/pelvis/upper_leg.R/lower_leg.R
+    m_Weight: 0
+  - m_Path: Armature/root/base/pelvis/upper_leg.R/lower_leg.R/foot.R
+    m_Weight: 0
+  - m_Path: Armature/root/base/pelvis/upper_leg.R/lower_leg.R/foot.R/toes.R
+    m_Weight: 0
+  - m_Path: Armature/root/base/pelvis/upper_leg.R/lower_leg.R/foot.R/toes.R/toes.R_end
+    m_Weight: 0
+  - m_Path: Armature/root/base/stomach
+    m_Weight: 0
+  - m_Path: Armature/root/base/stomach/chest
+    m_Weight: 0
+  - m_Path: Armature/root/base/stomach/chest/collor.L
+    m_Weight: 0
+  - m_Path: Armature/root/base/stomach/chest/collor.L/upper_arm.L
+    m_Weight: 0
+  - m_Path: Armature/root/base/stomach/chest/collor.L/upper_arm.L/lower_arm.L
+    m_Weight: 0
+  - m_Path: Armature/root/base/stomach/chest/collor.L/upper_arm.L/lower_arm.L/lower_arm.L.001
+    m_Weight: 0
+  - m_Path: Armature/root/base/stomach/chest/collor.L/upper_arm.L/lower_arm.L/lower_arm.L.001/F1A.L
+    m_Weight: 0
+  - m_Path: Armature/root/base/stomach/chest/collor.L/upper_arm.L/lower_arm.L/lower_arm.L.001/F1A.L/F1B.L
+    m_Weight: 0
+  - m_Path: Armature/root/base/stomach/chest/collor.L/upper_arm.L/lower_arm.L/lower_arm.L.001/F1A.L/F1B.L/F1C.L
+    m_Weight: 0
+  - m_Path: Armature/root/base/stomach/chest/collor.L/upper_arm.L/lower_arm.L/lower_arm.L.001/F1A.L/F1B.L/F1C.L/F1C.L_end
+    m_Weight: 0
+  - m_Path: Armature/root/base/stomach/chest/collor.L/upper_arm.L/lower_arm.L/lower_arm.L.001/F2A.L
+    m_Weight: 0
+  - m_Path: Armature/root/base/stomach/chest/collor.L/upper_arm.L/lower_arm.L/lower_arm.L.001/F2A.L/F2B.L
+    m_Weight: 0
+  - m_Path: Armature/root/base/stomach/chest/collor.L/upper_arm.L/lower_arm.L/lower_arm.L.001/F2A.L/F2B.L/F2C.L
+    m_Weight: 0
+  - m_Path: Armature/root/base/stomach/chest/collor.L/upper_arm.L/lower_arm.L/lower_arm.L.001/F2A.L/F2B.L/F2C.L/F2C.L_end
+    m_Weight: 0
+  - m_Path: Armature/root/base/stomach/chest/collor.L/upper_arm.L/lower_arm.L/lower_arm.L.001/F3A.L
+    m_Weight: 0
+  - m_Path: Armature/root/base/stomach/chest/collor.L/upper_arm.L/lower_arm.L/lower_arm.L.001/F3A.L/F3B.L
+    m_Weight: 0
+  - m_Path: Armature/root/base/stomach/chest/collor.L/upper_arm.L/lower_arm.L/lower_arm.L.001/F3A.L/F3B.L/F3C.L
+    m_Weight: 0
+  - m_Path: Armature/root/base/stomach/chest/collor.L/upper_arm.L/lower_arm.L/lower_arm.L.001/F3A.L/F3B.L/F3C.L/F3C.L_end
+    m_Weight: 0
+  - m_Path: Armature/root/base/stomach/chest/collor.L/upper_arm.L/lower_arm.L/lower_arm.L.001/F4A.L
+    m_Weight: 0
+  - m_Path: Armature/root/base/stomach/chest/collor.L/upper_arm.L/lower_arm.L/lower_arm.L.001/F4A.L/F4B.L
+    m_Weight: 0
+  - m_Path: Armature/root/base/stomach/chest/collor.L/upper_arm.L/lower_arm.L/lower_arm.L.001/F4A.L/F4B.L/F4C.L
+    m_Weight: 0
+  - m_Path: Armature/root/base/stomach/chest/collor.L/upper_arm.L/lower_arm.L/lower_arm.L.001/F4A.L/F4B.L/F4C.L/F4C.L_end
+    m_Weight: 0
+  - m_Path: Armature/root/base/stomach/chest/collor.L/upper_arm.L/lower_arm.L/lower_arm.L.001/TA.L
+    m_Weight: 0
+  - m_Path: Armature/root/base/stomach/chest/collor.L/upper_arm.L/lower_arm.L/lower_arm.L.001/TA.L/TB.L
+    m_Weight: 0
+  - m_Path: Armature/root/base/stomach/chest/collor.L/upper_arm.L/lower_arm.L/lower_arm.L.001/TA.L/TB.L/TC.L
+    m_Weight: 0
+  - m_Path: Armature/root/base/stomach/chest/collor.L/upper_arm.L/lower_arm.L/lower_arm.L.001/TA.L/TB.L/TC.L/TC.L_end
+    m_Weight: 0
+  - m_Path: Armature/root/base/stomach/chest/collor.R
+    m_Weight: 0
+  - m_Path: Armature/root/base/stomach/chest/collor.R/upper_arm.R
+    m_Weight: 0
+  - m_Path: Armature/root/base/stomach/chest/collor.R/upper_arm.R/lower_arm.R
+    m_Weight: 0
+  - m_Path: Armature/root/base/stomach/chest/collor.R/upper_arm.R/lower_arm.R/lower_arm.R.001
+    m_Weight: 0
+  - m_Path: Armature/root/base/stomach/chest/collor.R/upper_arm.R/lower_arm.R/lower_arm.R.001/F1A.R
+    m_Weight: 1
+  - m_Path: Armature/root/base/stomach/chest/collor.R/upper_arm.R/lower_arm.R/lower_arm.R.001/F1A.R/F1B.R
+    m_Weight: 1
+  - m_Path: Armature/root/base/stomach/chest/collor.R/upper_arm.R/lower_arm.R/lower_arm.R.001/F1A.R/F1B.R/F1C.R
+    m_Weight: 0
+  - m_Path: Armature/root/base/stomach/chest/collor.R/upper_arm.R/lower_arm.R/lower_arm.R.001/F1A.R/F1B.R/F1C.R/F1C.R_end
+    m_Weight: 1
+  - m_Path: Armature/root/base/stomach/chest/collor.R/upper_arm.R/lower_arm.R/lower_arm.R.001/F2A.R
+    m_Weight: 1
+  - m_Path: Armature/root/base/stomach/chest/collor.R/upper_arm.R/lower_arm.R/lower_arm.R.001/F2A.R/F2B.R
+    m_Weight: 1
+  - m_Path: Armature/root/base/stomach/chest/collor.R/upper_arm.R/lower_arm.R/lower_arm.R.001/F2A.R/F2B.R/F2C.R
+    m_Weight: 1
+  - m_Path: Armature/root/base/stomach/chest/collor.R/upper_arm.R/lower_arm.R/lower_arm.R.001/F2A.R/F2B.R/F2C.R/F2C.R_end
+    m_Weight: 1
+  - m_Path: Armature/root/base/stomach/chest/collor.R/upper_arm.R/lower_arm.R/lower_arm.R.001/F3A.R
+    m_Weight: 1
+  - m_Path: Armature/root/base/stomach/chest/collor.R/upper_arm.R/lower_arm.R/lower_arm.R.001/F3A.R/F3B.R
+    m_Weight: 1
+  - m_Path: Armature/root/base/stomach/chest/collor.R/upper_arm.R/lower_arm.R/lower_arm.R.001/F3A.R/F3B.R/F3C.R
+    m_Weight: 1
+  - m_Path: Armature/root/base/stomach/chest/collor.R/upper_arm.R/lower_arm.R/lower_arm.R.001/F3A.R/F3B.R/F3C.R/F3C.R_end
+    m_Weight: 1
+  - m_Path: Armature/root/base/stomach/chest/collor.R/upper_arm.R/lower_arm.R/lower_arm.R.001/F4A.R
+    m_Weight: 1
+  - m_Path: Armature/root/base/stomach/chest/collor.R/upper_arm.R/lower_arm.R/lower_arm.R.001/F4A.R/F4B.R
+    m_Weight: 1
+  - m_Path: Armature/root/base/stomach/chest/collor.R/upper_arm.R/lower_arm.R/lower_arm.R.001/F4A.R/F4B.R/F4C.R
+    m_Weight: 1
+  - m_Path: Armature/root/base/stomach/chest/collor.R/upper_arm.R/lower_arm.R/lower_arm.R.001/F4A.R/F4B.R/F4C.R/F4C.R_end
+    m_Weight: 1
+  - m_Path: Armature/root/base/stomach/chest/collor.R/upper_arm.R/lower_arm.R/lower_arm.R.001/TA.R
+    m_Weight: 1
+  - m_Path: Armature/root/base/stomach/chest/collor.R/upper_arm.R/lower_arm.R/lower_arm.R.001/TA.R/TB.R
+    m_Weight: 1
+  - m_Path: Armature/root/base/stomach/chest/collor.R/upper_arm.R/lower_arm.R/lower_arm.R.001/TA.R/TB.R/TC.R
+    m_Weight: 1
+  - m_Path: Armature/root/base/stomach/chest/collor.R/upper_arm.R/lower_arm.R/lower_arm.R.001/TA.R/TB.R/TC.R/TC.R_end
+    m_Weight: 1
+  - m_Path: Armature/root/base/stomach/chest/neck
+    m_Weight: 0
+  - m_Path: Armature/root/base/stomach/chest/neck/head
+    m_Weight: 0
+  - m_Path: Armature/root/base/stomach/chest/neck/head/head_end
+    m_Weight: 0
+  - m_Path: Armature/root/ik_leg.L
+    m_Weight: 0
+  - m_Path: Armature/root/ik_leg.L/knee.L
+    m_Weight: 0
+  - m_Path: Armature/root/ik_leg.L/knee.L/knee.L_end
+    m_Weight: 0
+  - m_Path: Armature/root/ik_leg.R
+    m_Weight: 0
+  - m_Path: Armature/root/ik_leg.R/knee.R
+    m_Weight: 0
+  - m_Path: Armature/root/ik_leg.R/knee.R/knee.R_end
+    m_Weight: 0
+  - m_Path: Hair
+    m_Weight: 0
+  - m_Path: Human
+    m_Weight: 0
+  - m_Path: trousers
+    m_Weight: 0
